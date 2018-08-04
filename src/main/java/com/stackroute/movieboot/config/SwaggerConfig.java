@@ -1,4 +1,4 @@
-package com.stackroute.movieboot.swagger;
+package com.stackroute.movieboot.config;
 
 import static springfox.documentation.builders.PathSelectors.regex;
 import org.springframework.context.annotation.Bean;

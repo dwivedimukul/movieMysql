@@ -1,4 +1,4 @@
-package com.stackroute.movieboot.controller;
+rpackage com.stackroute.movieboot.controller;
 
 
 import java.util.List;
